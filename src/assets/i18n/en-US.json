@@ -1,0 +1,8 @@
+{
+  "TITLE_MARKET_STATUS": "Market status",
+  "MSG_MARKET_CURRENTLY_OPENED": "Market is currently opened.",
+  "MSG_MARKET_CURRENTLY_CLOSED": "Market is currently closed.",
+  "MSG_MARKET_CURRENTLY_UNDEFINED": "Market status is undetectable.",
+  "MSG_HAS_REMAINING_API_CALLS": "{{remainingQuotas}} of {{maxQuotas}} calls left",
+  "MSG_NO_SYMBOL_SELECTED": "No symbol has been selected."
+}
